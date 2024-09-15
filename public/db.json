@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "samsung tv",
+      "productPrice": 20000
+    }
+  ],
+  "users": [
+    {}
+  ]
+}
